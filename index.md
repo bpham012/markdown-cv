@@ -1,14 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Bri's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Brianna PhamTuong
+Master of Public Policy Student, Lead Counselor, Developer
 
 
 ## Currently
